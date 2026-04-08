@@ -6,7 +6,7 @@ I build scalable web applications, AI systems, and quantitative trading alphas.
 
 ### 🧠 About Me
 
-* 🎓 Final year ECE, Minor in CSE
+* 🎓 BTech Graduate
 * 💼 Worked as Quant Research Consultant, WorldQuant BRAIN
 * 🧪 AI and LLM tasks, Outlier
 * ⚙️ Engineering workflows and projects, Mercor
