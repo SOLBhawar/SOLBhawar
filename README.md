@@ -7,8 +7,11 @@ I build scalable web applications, AI systems, and quantitative trading alphas.
 ### 🧠 About Me
 
 * 🎓 BTech Graduate
+* 💼 Worked as AI Trainer, Outlier
+* 💼 Worked as AI Expert, Mercor
+* 💼 Worked as AI QA, Handshake
 * 💼 Worked as Quant Research Consultant, WorldQuant BRAIN
-* 🧪 AI and LLM tasks, Outlier
+* 🧪 AI Engineer
 
 ### ⚡ Tech Stack
 
